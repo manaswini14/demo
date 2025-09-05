@@ -1,2 +1,3 @@
 # demo
-this is my first git repository
+his is my first git repository
+Author - manaswini swain
